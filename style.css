@@ -50,3 +50,7 @@ a:focus {
     height:1px;
     overflow:hidden;
 }
+
+ul h3 {
+    color: #434343;
+}
