@@ -34,13 +34,6 @@ h4 {
     font-size: .75em;
 }
 
-ul {
-    list-style: none;
-    padding: 0 0 0 40px;
-    margin: 0;
-    border-left: 2px solid rgba(109, 107, 108, .75);
-}
-
 li + li {
     margin-top: 20px;
 }
@@ -70,6 +63,13 @@ a:focus {
     margin: 0 auto;
 }
 
+.main-content ul {
+    list-style: none;
+    padding: 0 0 0 40px;
+    margin: 0;
+    border-left: 2px solid rgba(109, 107, 108, .75);
+}
+
 .header-wrapper {
     margin-left: 30px;
 }
@@ -97,6 +97,12 @@ a:focus {
 .sidebar {
     margin-top: 25px;
     margin-right: 60px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .sidebar li + li {
