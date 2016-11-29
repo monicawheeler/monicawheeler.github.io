@@ -11,3 +11,8 @@ h1, h2, h3, h4 {
     padding: 0 30px;
     margin: 0 auto;
 }
+
+.image-wrapper img {
+    width: 150px;
+    border-radius: 50%;
+}
