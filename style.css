@@ -102,6 +102,12 @@ a:focus {
     margin-top: 10px;
 }
 
+.sidebar a {
+    color: #1a97c7;
+    font-weight: 300;
+    text-decoration: none;
+}
+
 // hide content for display
 // but show for screen readers
 .sr-only {
