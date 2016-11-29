@@ -1,7 +1,6 @@
 body {
     color: #6D6B6C;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
+    font: 18px/1.5 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4 {   
@@ -14,6 +13,10 @@ h1 {
 
 h2, h3, h4 {
     color: #1a97c7;
+}
+
+p + p {
+    margin-top: 15px;
 }
 
 .main-content {
