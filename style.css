@@ -52,6 +52,10 @@ a:focus {
     margin: 0 auto;
 }
 
+.header-wrapper {
+    margin-left: 30px;
+}
+
 .header {
     display: -webkit-box;
     display: -ms-flexbox;
