@@ -98,6 +98,10 @@ a:focus {
     margin-right: 60px;
 }
 
+.sidebar li + li {
+    margin-top: 10px;
+}
+
 // hide content for display
 // but show for screen readers
 .sr-only {
