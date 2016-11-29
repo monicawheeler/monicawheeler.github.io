@@ -45,6 +45,12 @@ a:focus {
     margin: 0 auto;
 }
 
+.header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
 .image-wrapper img {
     width: 150px;
     border-radius: 50%;
