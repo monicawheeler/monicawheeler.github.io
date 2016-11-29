@@ -88,7 +88,8 @@ a:focus {
     border-radius: 50%;
 }
 
-.section-content {
+.section-content,
+.section-sidebar {
     margin-bottom: 30px;
 }
 
