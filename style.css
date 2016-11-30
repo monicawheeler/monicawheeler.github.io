@@ -158,3 +158,12 @@ a:focus {
         padding: 0 30px;
     }
 }
+
+@media screen and (max-width: 550px) {
+    .image-wrapper img {
+        width: 100px;
+    }
+    .header-wrapper p a {
+        font-size: 3.75vw;
+    }
+}
