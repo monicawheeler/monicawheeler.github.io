@@ -130,6 +130,7 @@ a:focus {
 }
 
 // Responsive
+
 @media screen and (max-width: 990px) {
     .body-wrapper {
         display: block;
