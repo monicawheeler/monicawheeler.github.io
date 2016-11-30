@@ -133,7 +133,8 @@ a:focus {
 .footer .fa {
     padding: 10px;
     color: #1a97c7;
-    transition: all 300ms;
+    background-color: #ffffff;
+    transition: background 300ms;
 }
 
 .footer .fa:hover {
