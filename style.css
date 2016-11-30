@@ -147,6 +147,9 @@ a:focus {
 }
 
 @media screen and (max-width: 640px) {
+    .body-wrapper {
+        padding: 35px 0;
+    }
     .main-content,
     .sidebar {
         padding: 0 30px;
