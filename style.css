@@ -118,8 +118,8 @@ a:focus {
     text-decoration: none;
 }
 
-// hide content for display
-// but show for screen readers
+/*  hide content for display
+ but show for screen readers */
 .sr-only {
     position:absolute;
     left:-10000px;
@@ -129,8 +129,7 @@ a:focus {
     overflow:hidden;
 }
 
-// Responsive
-
+/* Responsive */
 @media screen and (max-width: 990px) {
     .body-wrapper {
         display: block;
