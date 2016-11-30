@@ -135,7 +135,7 @@ a:focus {
     border-radius: 50%;
     color: #1a97c7;
     background-color: #ffffff;
-    transition: background 300ms;
+    transition: all 300ms;
 }
 
 .footer .fa:hover {
