@@ -132,6 +132,7 @@ a:focus {
 
 .footer .fa {
     color: #1a97c7;
+    transition: all 300ms;
 }
 
 .footer .fa:hover {
