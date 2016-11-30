@@ -141,8 +141,11 @@ a:focus {
 }
 
 @media screen and (max-width: 767px) {
-    h1 {
+    .header-main {
         font-size: 7vw;
+    }
+    .header-sub {
+        font-size: 4vw;
     }
 }
 
