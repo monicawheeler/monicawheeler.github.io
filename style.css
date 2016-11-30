@@ -67,7 +67,7 @@ a:focus {
     list-style: none;
     padding: 0 0 0 40px;
     margin: 0;
-    border-left: 2px solid rgba(109, 107, 108, .5);
+    border-left: 2px solid rgba(109, 107, 108, .25);
 }
 
 .header-wrapper {
