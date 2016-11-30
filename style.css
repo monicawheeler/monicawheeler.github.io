@@ -89,14 +89,17 @@ a:focus {
     border-radius: 50%;
 }
 
-.section-content,
-.section-sidebar {
+.section-content {
     margin-bottom: 30px;
 }
 
 .sidebar {
     margin-top: 25px;
     margin-right: 60px;
+}
+
+.section-sidebar {
+    margin-bottom: 50px;
 }
 
 .sidebar ul {
