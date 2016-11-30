@@ -139,3 +139,16 @@ a:focus {
         padding: 0 60px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    h1 {
+        font-size: 7vw;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .main-content,
+    .sidebar {
+        padding: 0 30px;
+    }
+}
