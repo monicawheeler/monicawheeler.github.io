@@ -132,6 +132,7 @@ a:focus {
 
 .footer .fa {
     padding: 10px;
+    border-radius: 50%;
     color: #1a97c7;
     background-color: #ffffff;
     transition: background 300ms;
@@ -140,7 +141,6 @@ a:focus {
 .footer .fa:hover {
     color: #ffffff;
     background-color: #1a97c7;
-    border-radius: 50%;
 }
 
 /*  hide content for display
