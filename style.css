@@ -10,10 +10,6 @@ body {
     padding: 70px 0;
 }
 
-@media screen and (max-width: 990px) {
-    display: block;
-}
-
 h1, h2, h3, h4 {
     margin: 0;
     font-family: 'Quattrocento Sans', sans-serif;
@@ -103,11 +99,6 @@ a:focus {
     margin-right: 60px;
 }
 
-@media screen and (max-width: 990px) {
-    margin-right: 0;
-    padding: 0 60px;
-}
-
 .section-sidebar {
     margin-bottom: 50px;
 }
@@ -137,4 +128,15 @@ a:focus {
     width:1px;
     height:1px;
     overflow:hidden;
+}
+
+// Responsive
+@media screen and (max-width: 990px) {
+    .body-wrapper {
+        display: block;
+    }
+    .sidebar {
+        margin-right: 0;
+        padding: 0 60px;
+    }
 }
