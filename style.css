@@ -118,6 +118,19 @@ a:focus {
     text-decoration: none;
 }
 
+.footer {
+    padding: 20px;
+    border-top: 2px solid rgba(109, 107, 108, .25);
+}
+
+.footer ul {
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #1a97c7;
+}
+
 /*  hide content for display
  but show for screen readers */
 .sr-only {
