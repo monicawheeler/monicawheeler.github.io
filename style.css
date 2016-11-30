@@ -131,6 +131,7 @@ a:focus {
 }
 
 .footer .fa {
+    padding: 10px;
     color: #1a97c7;
     transition: all 300ms;
 }
@@ -139,7 +140,6 @@ a:focus {
     color: #ffffff;
     background-color: #1a97c7;
     border-radius: 50%;
-    padding: 10px;
 }
 
 /*  hide content for display
