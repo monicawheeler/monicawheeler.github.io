@@ -171,3 +171,13 @@ a:focus {
         padding-left: 0;
     }
 }
+
+@media screen and (max-width: 550px) {
+    .body-wrapper {
+        padding: 20px 0;
+    }
+    .main-content,
+    .sidebar {
+        padding: 0 15px;
+    }
+}
