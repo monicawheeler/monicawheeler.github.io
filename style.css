@@ -172,7 +172,7 @@ a:focus {
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 450px) {
     .body-wrapper {
         padding: 20px 0;
     }
