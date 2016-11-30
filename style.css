@@ -166,4 +166,8 @@ a:focus {
     .header-wrapper p a {
         font-size: 3.75vw;
     }
+    .main-content ul {
+        border-left: none;
+        padding-left: 0;
+    }
 }
