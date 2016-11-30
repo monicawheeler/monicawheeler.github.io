@@ -128,7 +128,17 @@ a:focus {
     margin: 0;
     padding: 0;
     text-align: center;
+}
+
+.footer .fa {
     color: #1a97c7;
+}
+
+.footer .fa:hover {
+    color: #ffffff;
+    background-color: #1a97c7;
+    border-radius: 50%;
+    padding: 5px;
 }
 
 /*  hide content for display
