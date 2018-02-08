@@ -62,7 +62,8 @@ a:focus {
     margin: 0 auto;
 }
 
-.main-content ul {
+.experience-list,
+.education-list {
     list-style: none;
     padding: 0 0 0 40px;
     margin: 0;
