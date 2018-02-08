@@ -34,7 +34,7 @@ h4 {
     font-size: .75em;
 }
 
-li + li {
+.top-list-item + .top-list-item {
     margin-top: 40px;
 }
 
